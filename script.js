@@ -57,8 +57,7 @@ if(isPari(numGioc, numComp)) {
     console.log('La somma è pari')
 }
 
-else 
-{
+else {
     console.log('La somma è dispari')
 }
 
@@ -71,8 +70,7 @@ else if((choice == 'dispari') && (isPari(numGioc, numComp) == false)) {
     console.log('Hai vinto');
 }
 
-else
-{
+else {
     console.log('Hai perso :(');
 } 
 
