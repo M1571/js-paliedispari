@@ -21,7 +21,7 @@
 
 // // Creare una funzione per capire se la parola inserita è palindroma.
 // function palindroma(str) {
-//     let parolaDef = insertWord.split('').reverse().join(''); 
+//     let wordDef = insertWord.split('').reverse().join(''); 
 //     console.log(wordDef);
 
 //     if(insertWord == wordDef) {
